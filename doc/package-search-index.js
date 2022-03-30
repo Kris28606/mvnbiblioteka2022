@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"rs.ac.bg.fon.nprog.mvnbiblioteka2022.biblioteka"},{"l":"rs.ac.bg.fon.nprog.mvnbiblioteka2022.biblioteka.interfejs"}];updateSearchResults();

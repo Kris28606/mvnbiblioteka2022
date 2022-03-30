@@ -20,7 +20,7 @@ public class Knjiga {
 	 * 
 	 * ISBN brojevi su 13-cifreni identifikatori za knjige i pisana dela.
 	 *  
-	 * @see <a href="https://en.wikipedia.org/wiki/International_Standard_Book_Number">Wikipedia - ISBN</a>
+	 * @see <a href="https://en.wikipedia.org/wiki/International_Standard_Book_Number">Wikipedia</a>
 	 */
 	private long isbn;
 	
